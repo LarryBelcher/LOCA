@@ -1,0 +1,112 @@
+Saving ./Images/tasmin/620/averagemintemp-No-Data-0000-0000-LOCA-rcp45--620x450--0000-00-00.png
+Saving ./Images/tasmin/1000/averagemintemp-No-Data-0000-0000-LOCA-rcp45--1000x690--0000-00-00.png
+  adding: averagemintemp-No-Data-0000-0000-LOCA-rcp45--4096x2623--0000-00-00.png (deflated 12%)
+  adding: averagemintemp-No-Data-0000-0000-LOCA-rcp45--4096x2623--0000-00-00_colorbar.eps (deflated 90%)
+  adding: noaa_logo.eps (deflated 71%)
+Saving ./Images/tasmin/hd/averagemintemp-No-Data-0000-0000-LOCA-rcp45--1920x1080hd--0000-00-00.png
+Saving ./Images/tasmin/hdsd/averagemintemp-No-Data-0000-0000-LOCA-rcp45--1920x1080hdsd--0000-00-00.png
+Saving ./Images/tasmin/620/averagemintemp-No-Data-0000-0000-LOCA-rcp85--620x450--0000-00-00.png
+Saving ./Images/tasmin/1000/averagemintemp-No-Data-0000-0000-LOCA-rcp85--1000x690--0000-00-00.png
+  adding: averagemintemp-No-Data-0000-0000-LOCA-rcp85--4096x2623--0000-00-00.png (deflated 12%)
+  adding: averagemintemp-No-Data-0000-0000-LOCA-rcp85--4096x2623--0000-00-00_colorbar.eps (deflated 90%)
+  adding: noaa_logo.eps (deflated 71%)
+Saving ./Images/tasmin/hd/averagemintemp-No-Data-0000-0000-LOCA-rcp85--1920x1080hd--0000-00-00.png
+Saving ./Images/tasmin/hdsd/averagemintemp-No-Data-0000-0000-LOCA-rcp85--1920x1080hdsd--0000-00-00.png
+Saving ./Images/tasmin/620/averagemintemp-No-Data-0000-0000-LOCA-rcp45--620x450--0000-00-00.png
+Saving ./Images/tasmin/1000/averagemintemp-No-Data-0000-0000-LOCA-rcp45--1000x690--0000-00-00.png
+  adding: averagemintemp-No-Data-0000-0000-LOCA-rcp45--4096x2623--0000-00-00.png (deflated 12%)
+  adding: averagemintemp-No-Data-0000-0000-LOCA-rcp45--4096x2623--0000-00-00_colorbar.eps (deflated 90%)
+  adding: noaa_logo.eps (deflated 71%)
+Saving ./Images/tasmin/hd/averagemintemp-No-Data-0000-0000-LOCA-rcp45--1920x1080hd--0000-00-00.png
+Saving ./Images/tasmin/hdsd/averagemintemp-No-Data-0000-0000-LOCA-rcp45--1920x1080hdsd--0000-00-00.png
+Saving ./Images/tasmin/620/averagemintemp-No-Data-0000-0000-LOCA-rcp85--620x450--0000-00-00.png
+Saving ./Images/tasmin/1000/averagemintemp-No-Data-0000-0000-LOCA-rcp85--1000x690--0000-00-00.png
+  adding: averagemintemp-No-Data-0000-0000-LOCA-rcp85--4096x2623--0000-00-00.png (deflated 12%)
+  adding: averagemintemp-No-Data-0000-0000-LOCA-rcp85--4096x2623--0000-00-00_colorbar.eps (deflated 90%)
+  adding: noaa_logo.eps (deflated 71%)
+Saving ./Images/tasmin/hd/averagemintemp-No-Data-0000-0000-LOCA-rcp85--1920x1080hd--0000-00-00.png
+Saving ./Images/tasmin/hdsd/averagemintemp-No-Data-0000-0000-LOCA-rcp85--1920x1080hdsd--0000-00-00.png
+Saving ./Images/tasmin/620/averagemintemp-No-Data-0000-0000-LOCA-rcp45--620x450--0000-00-00.png
+Saving ./Images/tasmin/1000/averagemintemp-No-Data-0000-0000-LOCA-rcp45--1000x690--0000-00-00.png
+  adding: averagemintemp-No-Data-0000-0000-LOCA-rcp45--4096x2623--0000-00-00.png (deflated 12%)
+  adding: averagemintemp-No-Data-0000-0000-LOCA-rcp45--4096x2623--0000-00-00_colorbar.eps (deflated 90%)
+  adding: noaa_logo.eps (deflated 71%)
+Saving ./Images/tasmin/hd/averagemintemp-No-Data-0000-0000-LOCA-rcp45--1920x1080hd--0000-00-00.png
+Saving ./Images/tasmin/hdsd/averagemintemp-No-Data-0000-0000-LOCA-rcp45--1920x1080hdsd--0000-00-00.png
+Saving ./Images/tasmin/620/averagemintemp-No-Data-0000-0000-LOCA-rcp85--620x450--0000-00-00.png
+Saving ./Images/tasmin/1000/averagemintemp-No-Data-0000-0000-LOCA-rcp85--1000x690--0000-00-00.png
+  adding: averagemintemp-No-Data-0000-0000-LOCA-rcp85--4096x2623--0000-00-00.png (deflated 12%)
+  adding: averagemintemp-No-Data-0000-0000-LOCA-rcp85--4096x2623--0000-00-00_colorbar.eps (deflated 90%)
+  adding: noaa_logo.eps (deflated 71%)
+Saving ./Images/tasmin/hd/averagemintemp-No-Data-0000-0000-LOCA-rcp85--1920x1080hd--0000-00-00.png
+Saving ./Images/tasmin/hdsd/averagemintemp-No-Data-0000-0000-LOCA-rcp85--1920x1080hdsd--0000-00-00.png
+Saving ./Images/tasmin/620/averagemintemp-No-Data-0000-0000-LOCA-rcp45--620x450--0000-00-00.png
+Saving ./Images/tasmin/1000/averagemintemp-No-Data-0000-0000-LOCA-rcp45--1000x690--0000-00-00.png
+  adding: averagemintemp-No-Data-0000-0000-LOCA-rcp45--4096x2623--0000-00-00.png (deflated 12%)
+  adding: averagemintemp-No-Data-0000-0000-LOCA-rcp45--4096x2623--0000-00-00_colorbar.eps (deflated 90%)
+  adding: noaa_logo.eps (deflated 71%)
+Saving ./Images/tasmin/hd/averagemintemp-No-Data-0000-0000-LOCA-rcp45--1920x1080hd--0000-00-00.png
+Saving ./Images/tasmin/hdsd/averagemintemp-No-Data-0000-0000-LOCA-rcp45--1920x1080hdsd--0000-00-00.png
+Saving ./Images/tasmin/620/averagemintemp-No-Data-0000-0000-LOCA-rcp85--620x450--0000-00-00.png
+Saving ./Images/tasmin/1000/averagemintemp-No-Data-0000-0000-LOCA-rcp85--1000x690--0000-00-00.png
+  adding: averagemintemp-No-Data-0000-0000-LOCA-rcp85--4096x2623--0000-00-00.png (deflated 12%)
+  adding: averagemintemp-No-Data-0000-0000-LOCA-rcp85--4096x2623--0000-00-00_colorbar.eps (deflated 90%)
+  adding: noaa_logo.eps (deflated 71%)
+Saving ./Images/tasmin/hd/averagemintemp-No-Data-0000-0000-LOCA-rcp85--1920x1080hd--0000-00-00.png
+Saving ./Images/tasmin/hdsd/averagemintemp-No-Data-0000-0000-LOCA-rcp85--1920x1080hdsd--0000-00-00.png
+Saving ./Images/tasmin/620/averagemintemp-No-Data-0000-0000-LOCA-rcp45--620x450--0000-00-00.png
+Saving ./Images/tasmin/1000/averagemintemp-No-Data-0000-0000-LOCA-rcp45--1000x690--0000-00-00.png
+  adding: averagemintemp-No-Data-0000-0000-LOCA-rcp45--4096x2623--0000-00-00.png (deflated 12%)
+  adding: averagemintemp-No-Data-0000-0000-LOCA-rcp45--4096x2623--0000-00-00_colorbar.eps (deflated 90%)
+  adding: noaa_logo.eps (deflated 71%)
+Saving ./Images/tasmin/hd/averagemintemp-No-Data-0000-0000-LOCA-rcp45--1920x1080hd--0000-00-00.png
+Saving ./Images/tasmin/hdsd/averagemintemp-No-Data-0000-0000-LOCA-rcp45--1920x1080hdsd--0000-00-00.png
+Saving ./Images/tasmin/620/averagemintemp-No-Data-0000-0000-LOCA-rcp85--620x450--0000-00-00.png
+Saving ./Images/tasmin/1000/averagemintemp-No-Data-0000-0000-LOCA-rcp85--1000x690--0000-00-00.png
+  adding: averagemintemp-No-Data-0000-0000-LOCA-rcp85--4096x2623--0000-00-00.png (deflated 12%)
+  adding: averagemintemp-No-Data-0000-0000-LOCA-rcp85--4096x2623--0000-00-00_colorbar.eps (deflated 90%)
+  adding: noaa_logo.eps (deflated 71%)
+Saving ./Images/tasmin/hd/averagemintemp-No-Data-0000-0000-LOCA-rcp85--1920x1080hd--0000-00-00.png
+Saving ./Images/tasmin/hdsd/averagemintemp-No-Data-0000-0000-LOCA-rcp85--1920x1080hdsd--0000-00-00.png
+Saving ./Images/tasmin/620/averagemintemp-No-Data-0000-0000-LOCA-rcp45--620x450--0000-00-00.png
+Saving ./Images/tasmin/1000/averagemintemp-No-Data-0000-0000-LOCA-rcp45--1000x690--0000-00-00.png
+  adding: averagemintemp-No-Data-0000-0000-LOCA-rcp45--4096x2623--0000-00-00.png (deflated 12%)
+  adding: averagemintemp-No-Data-0000-0000-LOCA-rcp45--4096x2623--0000-00-00_colorbar.eps (deflated 90%)
+  adding: noaa_logo.eps (deflated 71%)
+Saving ./Images/tasmin/hd/averagemintemp-No-Data-0000-0000-LOCA-rcp45--1920x1080hd--0000-00-00.png
+Saving ./Images/tasmin/hdsd/averagemintemp-No-Data-0000-0000-LOCA-rcp45--1920x1080hdsd--0000-00-00.png
+Saving ./Images/tasmin/620/averagemintemp-No-Data-0000-0000-LOCA-rcp85--620x450--0000-00-00.png
+Saving ./Images/tasmin/1000/averagemintemp-No-Data-0000-0000-LOCA-rcp85--1000x690--0000-00-00.png
+  adding: averagemintemp-No-Data-0000-0000-LOCA-rcp85--4096x2623--0000-00-00.png (deflated 12%)
+  adding: averagemintemp-No-Data-0000-0000-LOCA-rcp85--4096x2623--0000-00-00_colorbar.eps (deflated 90%)
+  adding: noaa_logo.eps (deflated 71%)
+Saving ./Images/tasmin/hd/averagemintemp-No-Data-0000-0000-LOCA-rcp85--1920x1080hd--0000-00-00.png
+Saving ./Images/tasmin/hdsd/averagemintemp-No-Data-0000-0000-LOCA-rcp85--1920x1080hdsd--0000-00-00.png
+Saving ./Images/tasmin/620/averagemintemp-No-Data-0000-0000-LOCA-rcp45--620x450--0000-00-00.png
+Saving ./Images/tasmin/1000/averagemintemp-No-Data-0000-0000-LOCA-rcp45--1000x690--0000-00-00.png
+  adding: averagemintemp-No-Data-0000-0000-LOCA-rcp45--4096x2623--0000-00-00.png (deflated 12%)
+  adding: averagemintemp-No-Data-0000-0000-LOCA-rcp45--4096x2623--0000-00-00_colorbar.eps (deflated 90%)
+  adding: noaa_logo.eps (deflated 71%)
+Saving ./Images/tasmin/hd/averagemintemp-No-Data-0000-0000-LOCA-rcp45--1920x1080hd--0000-00-00.png
+Saving ./Images/tasmin/hdsd/averagemintemp-No-Data-0000-0000-LOCA-rcp45--1920x1080hdsd--0000-00-00.png
+Saving ./Images/tasmin/620/averagemintemp-No-Data-0000-0000-LOCA-rcp85--620x450--0000-00-00.png
+Saving ./Images/tasmin/1000/averagemintemp-No-Data-0000-0000-LOCA-rcp85--1000x690--0000-00-00.png
+  adding: averagemintemp-No-Data-0000-0000-LOCA-rcp85--4096x2623--0000-00-00.png (deflated 12%)
+  adding: averagemintemp-No-Data-0000-0000-LOCA-rcp85--4096x2623--0000-00-00_colorbar.eps (deflated 90%)
+  adding: noaa_logo.eps (deflated 71%)
+Saving ./Images/tasmin/hd/averagemintemp-No-Data-0000-0000-LOCA-rcp85--1920x1080hd--0000-00-00.png
+Saving ./Images/tasmin/hdsd/averagemintemp-No-Data-0000-0000-LOCA-rcp85--1920x1080hdsd--0000-00-00.png
+Saving ./Images/tasmin/620/averagemintemp-No-Data-0000-0000-LOCA-rcp45--620x450--0000-00-00.png
+Saving ./Images/tasmin/1000/averagemintemp-No-Data-0000-0000-LOCA-rcp45--1000x690--0000-00-00.png
+  adding: averagemintemp-No-Data-0000-0000-LOCA-rcp45--4096x2623--0000-00-00.png (deflated 12%)
+  adding: averagemintemp-No-Data-0000-0000-LOCA-rcp45--4096x2623--0000-00-00_colorbar.eps (deflated 90%)
+  adding: noaa_logo.eps (deflated 71%)
+Saving ./Images/tasmin/hd/averagemintemp-No-Data-0000-0000-LOCA-rcp45--1920x1080hd--0000-00-00.png
+Saving ./Images/tasmin/hdsd/averagemintemp-No-Data-0000-0000-LOCA-rcp45--1920x1080hdsd--0000-00-00.png
+Saving ./Images/tasmin/620/averagemintemp-No-Data-0000-0000-LOCA-rcp85--620x450--0000-00-00.png
+Saving ./Images/tasmin/1000/averagemintemp-No-Data-0000-0000-LOCA-rcp85--1000x690--0000-00-00.png
+  adding: averagemintemp-No-Data-0000-0000-LOCA-rcp85--4096x2623--0000-00-00.png (deflated 12%)
+  adding: averagemintemp-No-Data-0000-0000-LOCA-rcp85--4096x2623--0000-00-00_colorbar.eps (deflated 90%)
+  adding: noaa_logo.eps (deflated 71%)
+Saving ./Images/tasmin/hd/averagemintemp-No-Data-0000-0000-LOCA-rcp85--1920x1080hd--0000-00-00.png
+Saving ./Images/tasmin/hdsd/averagemintemp-No-Data-0000-0000-LOCA-rcp85--1920x1080hdsd--0000-00-00.png

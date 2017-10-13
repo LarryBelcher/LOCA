@@ -1,0 +1,40 @@
+README for the LOCA downscaled Climate projections temperature fields
+
+Abstract:
+This project contains a suite of python scripts to process and visualize LOCA (Localized 
+Constructed Analogs) data. The averaging scripts produce ten-year averages (2020-2029, 
+2030-2039...2090-2099) of daily temperature data for each month, while the visualization 
+scripts produce conterminous US maps of the results.
+
+Methodology:
+The LOCA data used in this project come are NetCDF files for maximum (tasmax) and minimum 
+(tasmin) daily temperature. The average daily temperature (tavg) data were derived from
+these, e.g., tasmax+tasmin/2. The daily values for each variable in a given month in a given
+decade are then averaged for each model (for models, see list below). The "ensemble" median
+is then calculated by taking the median of all models for a given month during a given 
+decade. The results have been calculated for each field (tasmax, tasmin, and tavg), 
+which are then visualized on conterminous US maps.
+
+Models Used:
+ACCESS1-0, ACCESS1-3, bcc-csm1-1, bcc-csm1-1-m, CanESM2, CCSM4, CESM1-BGC, CESM1-CAM5, 
+CMCC-CM, CMCC-CMS, CNRM-CM5, CSIRO-Mk3-6-0, EC-EARTH, FGOALS-g2, GFDL-CM3, GFDL-ESM2G, 
+GFDL-ESM2M, GISS-E2-H, GISS-E2-R, HadGEM2-AO, HadGEM2-CC, HadGEM2-ES, inmcm4, IPSL-CM5A-LR,
+IPSL-CM5A-MR, MIROC5, MIROC-ESM, MIROC-ESM-CHEM, MPI-ESM-LR, MPI-ESM-MR, MRI-CGCM3, NorESM1-M
+
+
+Data Source: http://loca.ucsd.edu
+Data Access: NASA OpenNex via AWS S3 (https://aws.amazon.com/public-datasets/nasa-nex/)
+Description from AWS site:
+	Localized Constructed Analogs (LOCA)
+The LOCA (Localized Constructed Analogs) dataset includes downscaled projections from 32 
+global climate models calculated for two Representative Concentration Pathways (RCP 4.5 and
+RCP 8.5). Each of the climate projections includes daily maximum temperature, minimum 
+temperature, and precipitation for every 6x6km for the conterminous US from 1950 to 2100.
+LOCA attempts to better preserve extreme hot days and heavy rain events, regional patterns
+of precipitation. The total dataset size is approximately 10 TB. For further information 
+on the methods and contents of the data refer to the source page here: (http://loca.ucsd.edu/).
+
+Available at s3://nasanex/LOCA
+
+
+

@@ -7,7 +7,7 @@ Constructed Analogs) data. The averaging scripts produce ten-year averages (2020
 scripts produce conterminous US maps of the results.
 
 Methodology:
-The LOCA data used in this project come are NetCDF files for maximum (tasmax) and minimum 
+The LOCA data used in this project are NetCDF files for maximum (tasmax) and minimum 
 (tasmin) daily temperature. The average daily temperature (tavg) data were derived from
 these, e.g., tasmax+tasmin/2. The daily values for each variable in a given month in a given
 decade are then averaged for each model (for models, see list below). The "ensemble" median
